@@ -1,0 +1,53 @@
+.top-heading {
+  background-color: aquamarine;
+}
+.center {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+#root {
+  text-align: center;
+}
+.mt-3 {
+  margin-top: 10px;
+}
+.card-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.flex {
+  display: flex;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.align-items-center {
+  align-items: center;
+}
+.w-50 {
+  width: 50%;
+}
+.w-90 {
+  width: 90%;
+}
+input {
+  padding: 10px 15px;
+  border: 1px solid lightgray;
+  font-size: 16px;
+  border-radius: 5px;
+}
+.btn-custom {
+  padding: 10px;
+  background-color: orangered;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+input:focus {
+  border-color: purple !important;
+  outline: none;
+}
+.input-error {
+  border-color: red;
+}
